@@ -22,7 +22,7 @@ LLMs are increasingly used in high-stakes applications such as finance, healthca
 - Computes behavioral parameters such as risk and loss aversion
 - Includes persona-based prompting to probe socio-demographic sensitivity
 
-➡️ See detailed implementation in: [`README.md`](./README.md)
+➡️ See detailed implementation in: [`README.md`](./TCN_model/README.md)
 
 ---
 
@@ -31,7 +31,7 @@ LLMs are increasingly used in high-stakes applications such as finance, healthca
 - Applies log-likelihood optimization to fit LLM behavior to bounded rationality models
 - Analyzes demographic effects through regression modeling
 
-➡️ See detailed implementation in: [`README_StrategicReasoning.md`](./README_StrategicReasoning.md)
+➡️ See detailed implementation in: [`README_StrategicReasoning.md`](./TQRE_model/README.md)
 
 ---
 
