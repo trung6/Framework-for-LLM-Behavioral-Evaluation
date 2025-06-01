@@ -1,0 +1,306 @@
+Age,Gender,Education,Marital Status,Location,Sexual Orientation,Disability,Race,Religion,Political Affiliation
+25 to 34,Female,Below lower secondary,Never married,Rural,Bisexual,physically-disabled,African,Christian,lifelong Democrat
+15 to 24,Female,Upper secondary,Never married,Rural,Asexual,able-bodied,Hispanic,Christian,lifelong Republican
+45 to 54,Male,Short-cycle tertiary,Widowed,Urban,Heterosexual,able-bodied,Caucasian,Religious,lifelong Democrat
+55 to 64,Female,Below lower secondary,Never married,Urban,Bisexual,able-bodied,Hispanic,Religious,Barack Obama Supporter
+25 to 34,Male,Short-cycle tertiary,Married,Urban,Bisexual,able-bodied,Hispanic,Religious,lifelong Democrat
+15 to 24,Female,Bachelor,Never married,Urban,Asexual,able-bodied,Asian,Jewish,lifelong Republican
+Over 65,Female,Graduate,Never married,Urban,Heterosexual,physically-disabled,African,Atheist,Barack Obama Supporter
+Over 65,Male,Short-cycle tertiary,Widowed,Rural,Heterosexual,able-bodied,Caucasian,Jewish,Donald Trump Supporter
+25 to 34,Male,Lower secondary,Divorced,Rural,Bisexual,physically-disabled,Asian,Atheist,lifelong Republican
+45 to 54,Male,Lower secondary,Divorced,Urban,Homosexual,physically-disabled,Asian,Jewish,Barack Obama Supporter
+15 to 24,Female,Upper secondary,Divorced,Urban,Bisexual,able-bodied,Caucasian,Atheist,Barack Obama Supporter
+25 to 34,Female,Short-cycle tertiary,Divorced,Rural,Bisexual,physically-disabled,Hispanic,Jewish,Donald Trump Supporter
+35 to 44,Male,Below lower secondary,Divorced,Rural,Bisexual,physically-disabled,Asian,Religious,lifelong Democrat
+45 to 54,Male,Short-cycle tertiary,Never married,Rural,Bisexual,physically-disabled,Hispanic,Christian,lifelong Democrat
+15 to 24,Female,Graduate,Married,Urban,Asexual,able-bodied,African,Jewish,lifelong Republican
+45 to 54,Male,Graduate,Never married,Rural,Heterosexual,able-bodied,Hispanic,Atheist,Donald Trump Supporter
+55 to 64,Female,Lower secondary,Never married,Urban,Asexual,physically-disabled,African,Religious,lifelong Democrat
+35 to 44,Male,Below lower secondary,Divorced,Urban,Asexual,able-bodied,Hispanic,Jewish,Donald Trump Supporter
+35 to 44,Female,Upper secondary,Married,Rural,Asexual,able-bodied,Asian,Jewish,lifelong Democrat
+35 to 44,Female,Lower secondary,Married,Rural,Bisexual,able-bodied,Asian,Religious,Barack Obama Supporter
+45 to 54,Male,Below lower secondary,Divorced,Rural,Homosexual,able-bodied,African,Jewish,lifelong Democrat
+15 to 24,Female,Below lower secondary,Widowed,Urban,Heterosexual,physically-disabled,Caucasian,Christian,Donald Trump Supporter
+35 to 44,Female,Below lower secondary,Married,Urban,Homosexual,physically-disabled,African,Jewish,Barack Obama Supporter
+55 to 64,Female,Short-cycle tertiary,Widowed,Rural,Asexual,able-bodied,African,Christian,Barack Obama Supporter
+45 to 54,Male,Bachelor,Widowed,Rural,Asexual,able-bodied,Hispanic,Christian,Barack Obama Supporter
+55 to 64,Female,Upper secondary,Widowed,Urban,Homosexual,physically-disabled,Hispanic,Religious,Donald Trump Supporter
+55 to 64,Male,Bachelor,Divorced,Rural,Homosexual,physically-disabled,African,Jewish,lifelong Republican
+15 to 24,Male,Bachelor,Never married,Rural,Homosexual,able-bodied,Asian,Religious,lifelong Republican
+35 to 44,Male,Graduate,Widowed,Urban,Asexual,physically-disabled,Hispanic,Jewish,lifelong Republican
+35 to 44,Male,Bachelor,Divorced,Rural,Asexual,able-bodied,Caucasian,Jewish,Donald Trump Supporter
+45 to 54,Female,Short-cycle tertiary,Divorced,Urban,Heterosexual,able-bodied,Hispanic,Atheist,Barack Obama Supporter
+55 to 64,Female,Lower secondary,Widowed,Rural,Heterosexual,physically-disabled,Hispanic,Jewish,lifelong Republican
+35 to 44,Male,Bachelor,Divorced,Rural,Asexual,physically-disabled,Caucasian,Religious,Donald Trump Supporter
+45 to 54,Male,Short-cycle tertiary,Widowed,Urban,Homosexual,able-bodied,African,Christian,lifelong Republican
+25 to 34,Female,Upper secondary,Married,Rural,Homosexual,able-bodied,Caucasian,Jewish,lifelong Democrat
+55 to 64,Male,Lower secondary,Divorced,Rural,Heterosexual,physically-disabled,African,Atheist,lifelong Republican
+25 to 34,Male,Short-cycle tertiary,Never married,Urban,Asexual,able-bodied,African,Religious,lifelong Republican
+55 to 64,Female,Below lower secondary,Widowed,Rural,Heterosexual,physically-disabled,African,Jewish,Barack Obama Supporter
+45 to 54,Female,Below lower secondary,Married,Rural,Heterosexual,able-bodied,Caucasian,Religious,Donald Trump Supporter
+35 to 44,Female,Lower secondary,Divorced,Urban,Bisexual,physically-disabled,African,Atheist,Barack Obama Supporter
+15 to 24,Female,Short-cycle tertiary,Widowed,Rural,Bisexual,physically-disabled,Asian,Atheist,Barack Obama Supporter
+25 to 34,Female,Graduate,Married,Urban,Bisexual,physically-disabled,Caucasian,Religious,Barack Obama Supporter
+Over 65,Female,Graduate,Divorced,Urban,Homosexual,able-bodied,Asian,Jewish,Barack Obama Supporter
+15 to 24,Male,Below lower secondary,Never married,Urban,Asexual,able-bodied,African,Christian,Barack Obama Supporter
+25 to 34,Female,Upper secondary,Never married,Rural,Asexual,physically-disabled,Hispanic,Atheist,lifelong Republican
+45 to 54,Female,Graduate,Never married,Urban,Asexual,able-bodied,African,Jewish,Barack Obama Supporter
+45 to 54,Male,Upper secondary,Never married,Rural,Asexual,physically-disabled,Asian,Jewish,Barack Obama Supporter
+55 to 64,Male,Upper secondary,Divorced,Rural,Bisexual,physically-disabled,Asian,Christian,Donald Trump Supporter
+Over 65,Female,Graduate,Widowed,Rural,Homosexual,able-bodied,Caucasian,Atheist,lifelong Democrat
+35 to 44,Female,Upper secondary,Divorced,Rural,Homosexual,able-bodied,Hispanic,Atheist,lifelong Republican
+45 to 54,Female,Below lower secondary,Never married,Rural,Bisexual,physically-disabled,Caucasian,Jewish,lifelong Republican
+45 to 54,Female,Graduate,Divorced,Rural,Homosexual,able-bodied,Asian,Jewish,lifelong Republican
+15 to 24,Female,Lower secondary,Never married,Urban,Bisexual,able-bodied,African,Christian,Barack Obama Supporter
+45 to 54,Male,Bachelor,Never married,Urban,Asexual,physically-disabled,Hispanic,Christian,Barack Obama Supporter
+35 to 44,Female,Short-cycle tertiary,Widowed,Urban,Bisexual,physically-disabled,African,Atheist,Barack Obama Supporter
+35 to 44,Female,Graduate,Married,Urban,Asexual,able-bodied,African,Religious,Donald Trump Supporter
+15 to 24,Female,Upper secondary,Divorced,Urban,Asexual,physically-disabled,Hispanic,Atheist,lifelong Democrat
+Over 65,Male,Lower secondary,Widowed,Rural,Heterosexual,physically-disabled,Caucasian,Jewish,Barack Obama Supporter
+45 to 54,Female,Short-cycle tertiary,Married,Rural,Bisexual,able-bodied,African,Atheist,lifelong Democrat
+35 to 44,Male,Bachelor,Never married,Urban,Heterosexual,physically-disabled,Asian,Religious,Donald Trump Supporter
+45 to 54,Female,Lower secondary,Never married,Urban,Bisexual,physically-disabled,African,Christian,lifelong Republican
+45 to 54,Male,Graduate,Divorced,Urban,Bisexual,able-bodied,Hispanic,Religious,Barack Obama Supporter
+15 to 24,Male,Lower secondary,Widowed,Rural,Heterosexual,able-bodied,Hispanic,Religious,lifelong Democrat
+35 to 44,Male,Lower secondary,Divorced,Rural,Heterosexual,physically-disabled,Hispanic,Religious,lifelong Democrat
+55 to 64,Female,Bachelor,Married,Rural,Bisexual,physically-disabled,Caucasian,Christian,Barack Obama Supporter
+25 to 34,Female,Below lower secondary,Never married,Rural,Homosexual,able-bodied,African,Religious,lifelong Republican
+Over 65,Male,Lower secondary,Married,Rural,Asexual,able-bodied,Caucasian,Religious,lifelong Republican
+35 to 44,Female,Bachelor,Married,Urban,Heterosexual,able-bodied,Caucasian,Religious,lifelong Republican
+25 to 34,Female,Below lower secondary,Divorced,Rural,Asexual,able-bodied,Hispanic,Jewish,Donald Trump Supporter
+45 to 54,Male,Graduate,Widowed,Rural,Homosexual,physically-disabled,Hispanic,Religious,lifelong Democrat
+Over 65,Male,Short-cycle tertiary,Widowed,Urban,Homosexual,able-bodied,Caucasian,Christian,lifelong Democrat
+45 to 54,Female,Short-cycle tertiary,Widowed,Rural,Homosexual,able-bodied,African,Religious,lifelong Democrat
+35 to 44,Male,Upper secondary,Married,Rural,Heterosexual,physically-disabled,Asian,Religious,Donald Trump Supporter
+35 to 44,Female,Graduate,Married,Urban,Homosexual,able-bodied,Caucasian,Christian,lifelong Democrat
+25 to 34,Male,Lower secondary,Never married,Rural,Heterosexual,physically-disabled,African,Religious,Donald Trump Supporter
+45 to 54,Female,Short-cycle tertiary,Married,Rural,Homosexual,able-bodied,Hispanic,Christian,lifelong Republican
+Over 65,Male,Short-cycle tertiary,Widowed,Rural,Asexual,able-bodied,Hispanic,Religious,Barack Obama Supporter
+Over 65,Female,Graduate,Married,Urban,Asexual,able-bodied,African,Christian,lifelong Democrat
+55 to 64,Male,Lower secondary,Widowed,Rural,Bisexual,physically-disabled,Asian,Religious,lifelong Democrat
+45 to 54,Male,Short-cycle tertiary,Divorced,Urban,Asexual,physically-disabled,Hispanic,Religious,lifelong Republican
+45 to 54,Female,Bachelor,Divorced,Urban,Bisexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+35 to 44,Male,Graduate,Married,Rural,Asexual,physically-disabled,Hispanic,Jewish,Donald Trump Supporter
+15 to 24,Female,Lower secondary,Never married,Urban,Heterosexual,physically-disabled,African,Religious,Barack Obama Supporter
+45 to 54,Male,Lower secondary,Never married,Rural,Asexual,physically-disabled,Caucasian,Religious,lifelong Republican
+Over 65,Female,Lower secondary,Never married,Rural,Bisexual,physically-disabled,Hispanic,Atheist,lifelong Republican
+15 to 24,Female,Graduate,Married,Urban,Bisexual,physically-disabled,Caucasian,Christian,Barack Obama Supporter
+15 to 24,Male,Below lower secondary,Never married,Rural,Homosexual,physically-disabled,Asian,Atheist,Donald Trump Supporter
+25 to 34,Male,Bachelor,Never married,Rural,Heterosexual,able-bodied,Hispanic,Jewish,Donald Trump Supporter
+35 to 44,Male,Graduate,Never married,Rural,Asexual,able-bodied,Hispanic,Jewish,lifelong Democrat
+Over 65,Female,Short-cycle tertiary,Widowed,Urban,Homosexual,physically-disabled,Asian,Jewish,Donald Trump Supporter
+Over 65,Female,Upper secondary,Divorced,Rural,Asexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+45 to 54,Male,Short-cycle tertiary,Married,Urban,Asexual,able-bodied,Caucasian,Religious,lifelong Republican
+Over 65,Male,Graduate,Never married,Rural,Homosexual,able-bodied,African,Jewish,lifelong Democrat
+35 to 44,Female,Bachelor,Divorced,Rural,Homosexual,able-bodied,Caucasian,Religious,lifelong Democrat
+55 to 64,Female,Below lower secondary,Married,Urban,Homosexual,physically-disabled,African,Religious,lifelong Republican
+55 to 64,Male,Below lower secondary,Married,Urban,Homosexual,able-bodied,African,Jewish,Donald Trump Supporter
+25 to 34,Male,Short-cycle tertiary,Married,Rural,Homosexual,able-bodied,Caucasian,Jewish,lifelong Republican
+55 to 64,Male,Upper secondary,Never married,Urban,Asexual,physically-disabled,Caucasian,Christian,Donald Trump Supporter
+55 to 64,Female,Below lower secondary,Widowed,Rural,Homosexual,physically-disabled,Caucasian,Atheist,lifelong Republican
+25 to 34,Female,Graduate,Never married,Urban,Heterosexual,able-bodied,Caucasian,Jewish,Barack Obama Supporter
+Over 65,Female,Short-cycle tertiary,Married,Rural,Bisexual,able-bodied,Asian,Christian,Donald Trump Supporter
+15 to 24,Female,Bachelor,Never married,Rural,Homosexual,able-bodied,Hispanic,Christian,Barack Obama Supporter
+35 to 44,Female,Graduate,Married,Urban,Homosexual,able-bodied,African,Atheist,lifelong Democrat
+55 to 64,Female,Below lower secondary,Widowed,Urban,Asexual,able-bodied,Caucasian,Religious,lifelong Republican
+55 to 64,Male,Short-cycle tertiary,Divorced,Rural,Homosexual,able-bodied,Caucasian,Jewish,lifelong Democrat
+55 to 64,Female,Lower secondary,Never married,Urban,Homosexual,physically-disabled,Caucasian,Atheist,lifelong Democrat
+25 to 34,Female,Short-cycle tertiary,Never married,Rural,Homosexual,able-bodied,Asian,Jewish,lifelong Democrat
+45 to 54,Female,Graduate,Divorced,Rural,Asexual,able-bodied,Caucasian,Christian,lifelong Democrat
+35 to 44,Female,Upper secondary,Married,Rural,Homosexual,physically-disabled,Caucasian,Christian,lifelong Republican
+25 to 34,Female,Short-cycle tertiary,Never married,Urban,Bisexual,physically-disabled,Caucasian,Religious,lifelong Democrat
+25 to 34,Male,Short-cycle tertiary,Widowed,Urban,Asexual,physically-disabled,Hispanic,Christian,lifelong Republican
+55 to 64,Male,Bachelor,Divorced,Urban,Bisexual,physically-disabled,Asian,Christian,lifelong Republican
+Over 65,Female,Below lower secondary,Married,Rural,Asexual,able-bodied,Caucasian,Atheist,Barack Obama Supporter
+55 to 64,Male,Bachelor,Never married,Rural,Homosexual,able-bodied,African,Jewish,Donald Trump Supporter
+55 to 64,Female,Lower secondary,Divorced,Rural,Bisexual,able-bodied,African,Jewish,Donald Trump Supporter
+15 to 24,Male,Upper secondary,Married,Urban,Asexual,able-bodied,African,Atheist,lifelong Republican
+25 to 34,Male,Bachelor,Divorced,Urban,Heterosexual,able-bodied,Asian,Religious,Barack Obama Supporter
+15 to 24,Male,Short-cycle tertiary,Never married,Urban,Homosexual,able-bodied,Asian,Jewish,lifelong Republican
+55 to 64,Male,Below lower secondary,Divorced,Rural,Asexual,physically-disabled,African,Christian,lifelong Republican
+45 to 54,Female,Graduate,Widowed,Urban,Heterosexual,able-bodied,Caucasian,Jewish,lifelong Republican
+Over 65,Female,Short-cycle tertiary,Widowed,Urban,Asexual,physically-disabled,Asian,Christian,Barack Obama Supporter
+25 to 34,Male,Bachelor,Married,Urban,Heterosexual,physically-disabled,African,Religious,Donald Trump Supporter
+35 to 44,Male,Lower secondary,Married,Rural,Homosexual,able-bodied,African,Atheist,Barack Obama Supporter
+Over 65,Male,Below lower secondary,Never married,Urban,Bisexual,physically-disabled,Caucasian,Jewish,lifelong Democrat
+45 to 54,Female,Lower secondary,Married,Rural,Heterosexual,able-bodied,Hispanic,Atheist,Barack Obama Supporter
+55 to 64,Female,Short-cycle tertiary,Divorced,Rural,Asexual,physically-disabled,Asian,Jewish,Barack Obama Supporter
+Over 65,Female,Short-cycle tertiary,Married,Urban,Homosexual,able-bodied,Caucasian,Christian,Barack Obama Supporter
+55 to 64,Female,Lower secondary,Never married,Urban,Heterosexual,physically-disabled,African,Atheist,Barack Obama Supporter
+15 to 24,Male,Below lower secondary,Never married,Rural,Asexual,able-bodied,African,Jewish,Donald Trump Supporter
+45 to 54,Female,Lower secondary,Never married,Urban,Asexual,able-bodied,Caucasian,Christian,lifelong Democrat
+35 to 44,Male,Upper secondary,Divorced,Urban,Asexual,able-bodied,Asian,Atheist,Donald Trump Supporter
+15 to 24,Female,Bachelor,Never married,Rural,Heterosexual,able-bodied,Hispanic,Atheist,Donald Trump Supporter
+15 to 24,Female,Short-cycle tertiary,Married,Urban,Heterosexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+25 to 34,Female,Upper secondary,Divorced,Urban,Heterosexual,physically-disabled,African,Jewish,lifelong Republican
+55 to 64,Female,Below lower secondary,Never married,Rural,Bisexual,physically-disabled,Asian,Jewish,lifelong Republican
+35 to 44,Female,Lower secondary,Never married,Urban,Heterosexual,physically-disabled,Hispanic,Christian,Donald Trump Supporter
+25 to 34,Female,Short-cycle tertiary,Never married,Urban,Heterosexual,able-bodied,Asian,Jewish,Donald Trump Supporter
+45 to 54,Female,Upper secondary,Married,Urban,Heterosexual,physically-disabled,Asian,Atheist,Barack Obama Supporter
+15 to 24,Male,Short-cycle tertiary,Never married,Rural,Bisexual,able-bodied,African,Atheist,Donald Trump Supporter
+55 to 64,Male,Upper secondary,Never married,Rural,Heterosexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+45 to 54,Male,Below lower secondary,Divorced,Urban,Asexual,physically-disabled,Caucasian,Jewish,lifelong Republican
+45 to 54,Female,Below lower secondary,Widowed,Urban,Heterosexual,physically-disabled,African,Religious,lifelong Republican
+Over 65,Female,Upper secondary,Divorced,Rural,Asexual,able-bodied,Hispanic,Atheist,lifelong Democrat
+15 to 24,Female,Bachelor,Widowed,Urban,Asexual,physically-disabled,Hispanic,Christian,lifelong Republican
+45 to 54,Male,Graduate,Divorced,Urban,Asexual,able-bodied,Hispanic,Religious,Donald Trump Supporter
+45 to 54,Male,Below lower secondary,Married,Rural,Bisexual,able-bodied,Hispanic,Jewish,lifelong Republican
+Over 65,Female,Upper secondary,Never married,Rural,Bisexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+55 to 64,Male,Graduate,Divorced,Urban,Bisexual,able-bodied,Asian,Atheist,lifelong Republican
+25 to 34,Female,Short-cycle tertiary,Never married,Rural,Heterosexual,able-bodied,African,Jewish,lifelong Democrat
+25 to 34,Male,Short-cycle tertiary,Divorced,Rural,Asexual,physically-disabled,Asian,Christian,lifelong Republican
+Over 65,Female,Short-cycle tertiary,Widowed,Rural,Bisexual,physically-disabled,Caucasian,Atheist,Barack Obama Supporter
+55 to 64,Female,Lower secondary,Divorced,Urban,Bisexual,able-bodied,Hispanic,Jewish,Barack Obama Supporter
+45 to 54,Female,Bachelor,Divorced,Rural,Heterosexual,able-bodied,African,Atheist,Donald Trump Supporter
+35 to 44,Female,Short-cycle tertiary,Divorced,Urban,Bisexual,physically-disabled,Hispanic,Jewish,lifelong Republican
+55 to 64,Female,Short-cycle tertiary,Widowed,Urban,Heterosexual,physically-disabled,African,Jewish,Barack Obama Supporter
+Over 65,Female,Bachelor,Never married,Rural,Homosexual,able-bodied,Asian,Jewish,lifelong Democrat
+35 to 44,Male,Lower secondary,Married,Rural,Bisexual,physically-disabled,African,Christian,Donald Trump Supporter
+45 to 54,Male,Short-cycle tertiary,Divorced,Urban,Homosexual,able-bodied,Caucasian,Christian,lifelong Democrat
+35 to 44,Male,Graduate,Never married,Rural,Heterosexual,physically-disabled,Caucasian,Atheist,lifelong Republican
+25 to 34,Male,Graduate,Widowed,Rural,Asexual,able-bodied,African,Jewish,lifelong Republican
+Over 65,Male,Graduate,Widowed,Rural,Bisexual,physically-disabled,African,Jewish,lifelong Republican
+45 to 54,Female,Bachelor,Divorced,Urban,Heterosexual,able-bodied,African,Christian,Donald Trump Supporter
+55 to 64,Male,Upper secondary,Widowed,Urban,Asexual,physically-disabled,African,Jewish,Barack Obama Supporter
+55 to 64,Male,Upper secondary,Married,Rural,Asexual,physically-disabled,Caucasian,Christian,Donald Trump Supporter
+Over 65,Male,Bachelor,Married,Urban,Homosexual,able-bodied,Hispanic,Jewish,lifelong Democrat
+55 to 64,Male,Upper secondary,Widowed,Rural,Heterosexual,physically-disabled,African,Atheist,Donald Trump Supporter
+15 to 24,Male,Below lower secondary,Married,Rural,Asexual,able-bodied,African,Jewish,lifelong Democrat
+35 to 44,Female,Graduate,Married,Rural,Bisexual,physically-disabled,Caucasian,Jewish,Donald Trump Supporter
+35 to 44,Male,Graduate,Widowed,Rural,Bisexual,able-bodied,Caucasian,Religious,Barack Obama Supporter
+25 to 34,Male,Bachelor,Married,Rural,Homosexual,physically-disabled,Asian,Christian,lifelong Democrat
+45 to 54,Female,Below lower secondary,Divorced,Urban,Asexual,able-bodied,African,Jewish,lifelong Republican
+Over 65,Female,Lower secondary,Married,Urban,Heterosexual,physically-disabled,Asian,Jewish,lifelong Republican
+Over 65,Male,Lower secondary,Divorced,Urban,Bisexual,able-bodied,Caucasian,Religious,Donald Trump Supporter
+55 to 64,Male,Bachelor,Widowed,Urban,Asexual,physically-disabled,Caucasian,Religious,lifelong Republican
+Over 65,Male,Lower secondary,Married,Rural,Asexual,able-bodied,Hispanic,Christian,lifelong Democrat
+45 to 54,Female,Bachelor,Never married,Urban,Homosexual,able-bodied,African,Religious,lifelong Republican
+35 to 44,Male,Graduate,Never married,Urban,Bisexual,able-bodied,Asian,Atheist,Barack Obama Supporter
+15 to 24,Female,Short-cycle tertiary,Widowed,Urban,Bisexual,physically-disabled,Caucasian,Religious,Barack Obama Supporter
+15 to 24,Male,Graduate,Widowed,Rural,Heterosexual,able-bodied,Caucasian,Atheist,Donald Trump Supporter
+45 to 54,Male,Graduate,Widowed,Rural,Bisexual,physically-disabled,Asian,Christian,lifelong Democrat
+45 to 54,Male,Below lower secondary,Divorced,Rural,Heterosexual,able-bodied,Hispanic,Christian,Barack Obama Supporter
+45 to 54,Female,Bachelor,Never married,Rural,Bisexual,physically-disabled,Caucasian,Christian,Barack Obama Supporter
+35 to 44,Male,Lower secondary,Married,Urban,Homosexual,able-bodied,African,Christian,lifelong Democrat
+55 to 64,Female,Upper secondary,Married,Rural,Bisexual,physically-disabled,Caucasian,Christian,lifelong Republican
+Over 65,Female,Lower secondary,Never married,Urban,Heterosexual,physically-disabled,African,Atheist,lifelong Republican
+15 to 24,Female,Lower secondary,Widowed,Rural,Heterosexual,able-bodied,Asian,Atheist,Donald Trump Supporter
+35 to 44,Male,Below lower secondary,Married,Urban,Homosexual,physically-disabled,African,Christian,lifelong Republican
+35 to 44,Male,Bachelor,Married,Urban,Bisexual,physically-disabled,Asian,Religious,lifelong Democrat
+15 to 24,Female,Bachelor,Widowed,Rural,Bisexual,able-bodied,African,Jewish,Barack Obama Supporter
+45 to 54,Male,Graduate,Divorced,Urban,Homosexual,physically-disabled,Asian,Christian,lifelong Republican
+55 to 64,Male,Upper secondary,Widowed,Urban,Bisexual,physically-disabled,African,Religious,Donald Trump Supporter
+25 to 34,Female,Lower secondary,Widowed,Urban,Bisexual,physically-disabled,Hispanic,Jewish,lifelong Republican
+35 to 44,Female,Short-cycle tertiary,Never married,Urban,Heterosexual,able-bodied,African,Christian,lifelong Democrat
+55 to 64,Male,Short-cycle tertiary,Married,Urban,Bisexual,physically-disabled,African,Christian,Donald Trump Supporter
+Over 65,Male,Lower secondary,Never married,Urban,Bisexual,able-bodied,Hispanic,Atheist,lifelong Republican
+55 to 64,Female,Lower secondary,Never married,Urban,Homosexual,physically-disabled,Caucasian,Jewish,Donald Trump Supporter
+35 to 44,Male,Graduate,Married,Urban,Homosexual,physically-disabled,Caucasian,Jewish,lifelong Democrat
+Over 65,Male,Bachelor,Married,Rural,Asexual,physically-disabled,African,Religious,Barack Obama Supporter
+Over 65,Male,Below lower secondary,Widowed,Urban,Heterosexual,able-bodied,Hispanic,Atheist,lifelong Democrat
+55 to 64,Male,Lower secondary,Widowed,Urban,Bisexual,physically-disabled,African,Atheist,lifelong Democrat
+45 to 54,Female,Lower secondary,Divorced,Rural,Bisexual,physically-disabled,Asian,Atheist,lifelong Democrat
+25 to 34,Male,Below lower secondary,Widowed,Urban,Asexual,able-bodied,Asian,Atheist,lifelong Democrat
+25 to 34,Female,Lower secondary,Married,Rural,Bisexual,physically-disabled,African,Jewish,Barack Obama Supporter
+25 to 34,Female,Bachelor,Married,Rural,Heterosexual,able-bodied,Caucasian,Jewish,Barack Obama Supporter
+Over 65,Male,Bachelor,Widowed,Urban,Asexual,able-bodied,Caucasian,Christian,Donald Trump Supporter
+25 to 34,Female,Lower secondary,Never married,Urban,Heterosexual,physically-disabled,African,Christian,lifelong Republican
+15 to 24,Female,Lower secondary,Widowed,Urban,Asexual,able-bodied,African,Atheist,Barack Obama Supporter
+45 to 54,Male,Graduate,Married,Rural,Asexual,physically-disabled,Asian,Atheist,Barack Obama Supporter
+15 to 24,Male,Graduate,Widowed,Urban,Homosexual,able-bodied,Caucasian,Atheist,lifelong Republican
+Over 65,Female,Short-cycle tertiary,Never married,Rural,Heterosexual,able-bodied,African,Christian,Barack Obama Supporter
+55 to 64,Male,Short-cycle tertiary,Divorced,Rural,Bisexual,physically-disabled,Asian,Religious,lifelong Democrat
+55 to 64,Female,Graduate,Divorced,Urban,Bisexual,able-bodied,Caucasian,Religious,lifelong Democrat
+45 to 54,Male,Upper secondary,Divorced,Rural,Heterosexual,able-bodied,Hispanic,Christian,lifelong Republican
+35 to 44,Female,Graduate,Divorced,Rural,Bisexual,able-bodied,Asian,Christian,Donald Trump Supporter
+45 to 54,Female,Below lower secondary,Divorced,Urban,Bisexual,able-bodied,Caucasian,Christian,Donald Trump Supporter
+45 to 54,Female,Short-cycle tertiary,Married,Urban,Heterosexual,able-bodied,Caucasian,Christian,lifelong Republican
+15 to 24,Male,Lower secondary,Never married,Rural,Asexual,physically-disabled,Asian,Christian,lifelong Republican
+Over 65,Male,Short-cycle tertiary,Divorced,Urban,Heterosexual,able-bodied,Hispanic,Christian,lifelong Democrat
+15 to 24,Female,Lower secondary,Never married,Urban,Asexual,physically-disabled,Asian,Atheist,Donald Trump Supporter
+55 to 64,Male,Upper secondary,Divorced,Urban,Bisexual,able-bodied,Caucasian,Atheist,Barack Obama Supporter
+45 to 54,Female,Graduate,Married,Rural,Bisexual,physically-disabled,African,Atheist,lifelong Democrat
+15 to 24,Male,Upper secondary,Married,Rural,Bisexual,physically-disabled,African,Atheist,lifelong Republican
+35 to 44,Male,Below lower secondary,Widowed,Rural,Homosexual,able-bodied,Asian,Christian,Donald Trump Supporter
+25 to 34,Female,Upper secondary,Divorced,Urban,Asexual,able-bodied,Caucasian,Religious,Barack Obama Supporter
+45 to 54,Male,Below lower secondary,Married,Urban,Homosexual,able-bodied,African,Jewish,Barack Obama Supporter
+45 to 54,Male,Short-cycle tertiary,Married,Urban,Homosexual,physically-disabled,Caucasian,Christian,lifelong Democrat
+25 to 34,Male,Graduate,Never married,Rural,Heterosexual,able-bodied,Asian,Jewish,Donald Trump Supporter
+45 to 54,Female,Short-cycle tertiary,Widowed,Rural,Homosexual,physically-disabled,African,Religious,Donald Trump Supporter
+55 to 64,Male,Graduate,Never married,Urban,Heterosexual,physically-disabled,Caucasian,Atheist,lifelong Republican
+25 to 34,Male,Lower secondary,Widowed,Urban,Heterosexual,physically-disabled,African,Religious,Donald Trump Supporter
+15 to 24,Male,Lower secondary,Never married,Urban,Homosexual,able-bodied,Asian,Christian,Donald Trump Supporter
+15 to 24,Female,Below lower secondary,Divorced,Rural,Asexual,able-bodied,Caucasian,Atheist,lifelong Democrat
+35 to 44,Female,Short-cycle tertiary,Married,Urban,Asexual,physically-disabled,African,Christian,Donald Trump Supporter
+Over 65,Male,Below lower secondary,Widowed,Urban,Asexual,physically-disabled,Asian,Atheist,Barack Obama Supporter
+25 to 34,Male,Upper secondary,Married,Urban,Asexual,able-bodied,African,Jewish,lifelong Democrat
+15 to 24,Female,Bachelor,Divorced,Urban,Asexual,physically-disabled,African,Jewish,lifelong Democrat
+15 to 24,Female,Short-cycle tertiary,Married,Urban,Homosexual,able-bodied,Hispanic,Jewish,lifelong Republican
+25 to 34,Female,Short-cycle tertiary,Never married,Rural,Homosexual,physically-disabled,Hispanic,Religious,Donald Trump Supporter
+Over 65,Female,Lower secondary,Divorced,Urban,Bisexual,able-bodied,Asian,Christian,lifelong Republican
+55 to 64,Female,Graduate,Widowed,Urban,Asexual,physically-disabled,Hispanic,Religious,Barack Obama Supporter
+45 to 54,Female,Short-cycle tertiary,Widowed,Rural,Homosexual,able-bodied,Asian,Jewish,lifelong Democrat
+25 to 34,Male,Upper secondary,Married,Rural,Bisexual,physically-disabled,Hispanic,Christian,lifelong Democrat
+35 to 44,Male,Below lower secondary,Married,Rural,Asexual,able-bodied,African,Jewish,lifelong Democrat
+35 to 44,Male,Below lower secondary,Never married,Urban,Heterosexual,able-bodied,Asian,Religious,Barack Obama Supporter
+Over 65,Male,Lower secondary,Widowed,Rural,Bisexual,physically-disabled,Asian,Religious,Barack Obama Supporter
+25 to 34,Female,Graduate,Widowed,Urban,Homosexual,physically-disabled,African,Religious,lifelong Republican
+45 to 54,Female,Lower secondary,Never married,Urban,Heterosexual,able-bodied,Asian,Jewish,lifelong Republican
+55 to 64,Male,Upper secondary,Divorced,Rural,Heterosexual,physically-disabled,Asian,Christian,lifelong Republican
+55 to 64,Female,Lower secondary,Married,Urban,Heterosexual,able-bodied,Hispanic,Christian,Donald Trump Supporter
+35 to 44,Female,Lower secondary,Widowed,Urban,Bisexual,physically-disabled,Asian,Jewish,lifelong Democrat
+25 to 34,Female,Below lower secondary,Widowed,Urban,Homosexual,able-bodied,Caucasian,Christian,lifelong Democrat
+25 to 34,Female,Below lower secondary,Never married,Urban,Heterosexual,able-bodied,African,Jewish,lifelong Republican
+15 to 24,Female,Upper secondary,Married,Rural,Asexual,able-bodied,Hispanic,Christian,lifelong Democrat
+35 to 44,Female,Bachelor,Married,Urban,Heterosexual,able-bodied,Hispanic,Atheist,lifelong Republican
+25 to 34,Male,Short-cycle tertiary,Never married,Urban,Heterosexual,able-bodied,Caucasian,Atheist,Donald Trump Supporter
+55 to 64,Female,Short-cycle tertiary,Widowed,Urban,Bisexual,able-bodied,African,Religious,Donald Trump Supporter
+25 to 34,Female,Bachelor,Married,Urban,Bisexual,physically-disabled,African,Atheist,Barack Obama Supporter
+15 to 24,Female,Bachelor,Divorced,Rural,Homosexual,physically-disabled,Hispanic,Atheist,Donald Trump Supporter
+25 to 34,Male,Below lower secondary,Never married,Rural,Asexual,physically-disabled,Asian,Atheist,lifelong Republican
+Over 65,Male,Short-cycle tertiary,Widowed,Urban,Bisexual,able-bodied,Hispanic,Jewish,Donald Trump Supporter
+25 to 34,Male,Short-cycle tertiary,Divorced,Urban,Heterosexual,able-bodied,African,Atheist,Barack Obama Supporter
+15 to 24,Male,Short-cycle tertiary,Married,Rural,Homosexual,able-bodied,Caucasian,Atheist,lifelong Democrat
+Over 65,Female,Upper secondary,Widowed,Rural,Heterosexual,able-bodied,Hispanic,Religious,lifelong Republican
+25 to 34,Female,Graduate,Widowed,Urban,Heterosexual,physically-disabled,African,Atheist,lifelong Democrat
+35 to 44,Male,Below lower secondary,Never married,Rural,Bisexual,physically-disabled,Hispanic,Atheist,Barack Obama Supporter
+35 to 44,Female,Below lower secondary,Married,Rural,Homosexual,able-bodied,Asian,Christian,Barack Obama Supporter
+25 to 34,Female,Lower secondary,Widowed,Urban,Asexual,physically-disabled,Hispanic,Religious,Barack Obama Supporter
+35 to 44,Male,Upper secondary,Divorced,Rural,Asexual,physically-disabled,Hispanic,Religious,lifelong Democrat
+25 to 34,Male,Bachelor,Married,Rural,Bisexual,able-bodied,African,Religious,lifelong Democrat
+55 to 64,Male,Bachelor,Widowed,Urban,Bisexual,physically-disabled,African,Religious,lifelong Democrat
+Over 65,Female,Graduate,Married,Urban,Homosexual,able-bodied,African,Religious,lifelong Democrat
+45 to 54,Male,Graduate,Divorced,Urban,Asexual,physically-disabled,Hispanic,Religious,Barack Obama Supporter
+35 to 44,Male,Below lower secondary,Married,Urban,Asexual,able-bodied,Asian,Jewish,Barack Obama Supporter
+Over 65,Female,Short-cycle tertiary,Married,Urban,Asexual,able-bodied,Caucasian,Atheist,lifelong Republican
+35 to 44,Male,Short-cycle tertiary,Divorced,Rural,Heterosexual,able-bodied,Caucasian,Religious,lifelong Republican
+45 to 54,Male,Short-cycle tertiary,Widowed,Urban,Asexual,able-bodied,African,Atheist,lifelong Democrat
+55 to 64,Female,Graduate,Widowed,Urban,Heterosexual,physically-disabled,African,Atheist,Donald Trump Supporter
+15 to 24,Female,Upper secondary,Never married,Rural,Homosexual,able-bodied,Hispanic,Jewish,Donald Trump Supporter
+15 to 24,Male,Upper secondary,Widowed,Urban,Heterosexual,able-bodied,Caucasian,Religious,Barack Obama Supporter
+45 to 54,Female,Graduate,Divorced,Urban,Homosexual,able-bodied,African,Christian,Barack Obama Supporter
+15 to 24,Male,Bachelor,Divorced,Rural,Asexual,physically-disabled,Asian,Jewish,Barack Obama Supporter
+Over 65,Male,Short-cycle tertiary,Never married,Rural,Asexual,able-bodied,Asian,Christian,lifelong Republican
+Over 65,Male,Graduate,Widowed,Urban,Homosexual,physically-disabled,African,Atheist,lifelong Republican
+55 to 64,Male,Graduate,Divorced,Rural,Bisexual,able-bodied,African,Atheist,Barack Obama Supporter
+Over 65,Male,Lower secondary,Widowed,Rural,Homosexual,physically-disabled,Caucasian,Jewish,Barack Obama Supporter
+35 to 44,Male,Lower secondary,Widowed,Urban,Bisexual,physically-disabled,Caucasian,Jewish,Barack Obama Supporter
+25 to 34,Male,Short-cycle tertiary,Never married,Urban,Heterosexual,able-bodied,Hispanic,Christian,Donald Trump Supporter
+45 to 54,Male,Bachelor,Widowed,Urban,Heterosexual,physically-disabled,Caucasian,Religious,lifelong Republican
+Over 65,Male,Lower secondary,Married,Urban,Heterosexual,able-bodied,Asian,Christian,Donald Trump Supporter
+35 to 44,Female,Graduate,Never married,Urban,Asexual,able-bodied,Asian,Jewish,Donald Trump Supporter
+45 to 54,Male,Bachelor,Never married,Urban,Heterosexual,able-bodied,African,Christian,Barack Obama Supporter
+25 to 34,Male,Below lower secondary,Never married,Urban,Bisexual,physically-disabled,Caucasian,Jewish,Barack Obama Supporter
+15 to 24,Female,Below lower secondary,Married,Rural,Heterosexual,physically-disabled,Hispanic,Christian,lifelong Democrat
+55 to 64,Female,Short-cycle tertiary,Never married,Urban,Homosexual,able-bodied,Asian,Jewish,lifelong Democrat
+35 to 44,Male,Graduate,Divorced,Rural,Homosexual,able-bodied,Asian,Jewish,Donald Trump Supporter
+25 to 34,Female,Lower secondary,Divorced,Urban,Asexual,physically-disabled,Hispanic,Jewish,lifelong Republican
+Over 65,Male,Graduate,Never married,Rural,Homosexual,able-bodied,Hispanic,Religious,Barack Obama Supporter
+Over 65,Male,Bachelor,Divorced,Rural,Bisexual,able-bodied,Asian,Christian,Barack Obama Supporter
+35 to 44,Male,Below lower secondary,Never married,Urban,Heterosexual,able-bodied,Asian,Christian,Donald Trump Supporter
+25 to 34,Female,Upper secondary,Never married,Urban,Asexual,physically-disabled,Hispanic,Christian,lifelong Democrat
+55 to 64,Male,Short-cycle tertiary,Widowed,Rural,Heterosexual,physically-disabled,Asian,Jewish,lifelong Republican
+55 to 64,Male,Below lower secondary,Divorced,Urban,Heterosexual,physically-disabled,African,Christian,lifelong Democrat
+25 to 34,Male,Graduate,Widowed,Rural,Bisexual,able-bodied,African,Christian,lifelong Democrat
+45 to 54,Male,Lower secondary,Divorced,Rural,Homosexual,able-bodied,Hispanic,Jewish,lifelong Democrat
+45 to 54,Female,Graduate,Widowed,Rural,Homosexual,able-bodied,Caucasian,Atheist,lifelong Democrat

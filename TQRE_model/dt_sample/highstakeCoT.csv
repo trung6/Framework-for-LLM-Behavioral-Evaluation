@@ -1,0 +1,12 @@
+File Name,Row_0%,Row_1%,Row_2%,Col_0%,Col_1%,Col_2%
+claude-3-opus-20240229_choices.csv,93.33,6.67,0.0,80.0,20.0,0.0
+deepseek-ai_DeepSeek-V2.5_choices.csv,80.0,6.67,13.33,86.67,6.67,6.67
+gemini-2.0-flash-thinking-exp-01-21_choices.csv,66.67,33.33,0.0,66.67,26.67,6.67
+google_gemma-2-27b-it_choices.csv,33.33,60.0,6.67,20.0,80.0,0.0
+gpt-4o_choices.csv,53.33,26.67,20.0,20.0,46.67,33.33
+internlm_internlm2_5-20b-chat_choices.csv,46.67,53.33,0.0,66.67,33.33,0.0
+meta-llama_Meta-Llama-3.1-405B-Instruct_choices.csv,12.5,75.0,12.5,62.5,25.0,12.5
+meta-llama_Meta-Llama-3.1-8B-Instruct_choices.csv,38.46,61.54,0.0,15.38,84.62,0.0
+Pro_deepseek-ai_DeepSeek-V3_choices.csv,26.67,60.0,13.33,53.33,46.67,0.0
+Qwen_QwQ-32B-Preview_choices.csv,53.33,0.0,46.67,80.0,0.0,20.0
+THUDM_glm-4-9b-chat_choices.csv,40.0,60.0,0.0,33.33,53.33,13.33
