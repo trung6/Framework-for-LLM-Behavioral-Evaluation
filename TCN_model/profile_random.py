@@ -51,6 +51,6 @@ while len(profiles_list) < n_profiles:
 profiles = pd.DataFrame(profiles_list, columns=['Age', 'Gender', 'Education', 'Marital Status', 'Location'])
 
 
-csv_file_path = 'D:/Behavior_Econ/codes/Random_Generated_Profiles_baseline.csv'
+csv_file_path = 'data/Profile/Random_Generated_Profiles_baseline.csv'
 profiles.to_csv(csv_file_path, index=False)
 # print(profiles.head())

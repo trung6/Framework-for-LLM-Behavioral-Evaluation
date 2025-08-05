@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load the existing CSV file
-csv_file_path = 'D:/Behavior_Econ/codes/Profile/Random_Generated_Profiles_baseline.csv'
+csv_file_path = 'data/Profile/Random_Generated_Profiles_baseline.csv'
 profiles = pd.read_csv(csv_file_path)
 
 # Define the new categories and their options
@@ -24,7 +24,7 @@ profiles['Religion'] = np.random.choice(religion_options, size=n_profiles)
 profiles['Political Affiliation'] = np.random.choice(political_affl_options, size=n_profiles)
 
 # Save the updated DataFrame to a new CSV file
-new_csv_file_path = 'D:/Behavior_Econ/codes/Profile/Random_Generated_Profiles_minority.csv'
+new_csv_file_path = 'data/Profile/Random_Generated_Profiles_minority.csv'
 profiles.to_csv(new_csv_file_path, index=False)
 
 # print(f'Updated profiles saved to {new_csv_file_path}')
