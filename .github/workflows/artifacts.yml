@@ -1,7 +1,7 @@
 name: artifacts
 on: push
 env:
-  ARTIFACT_NAME: 'a'
+  FILE_NAME: 'm'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,3 +10,5 @@ jobs:
         uses: actions/checkout@v4
       - name: upload artifact
         uses: actions/upload-artifact@v4
+        with:
+          path: "m"
