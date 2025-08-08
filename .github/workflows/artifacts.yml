@@ -1,7 +1,7 @@
 name: artifacts
 on: push
 env:
-  FILE_NAME: 'm'
+  FILE_NAME: 'README.md'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,4 +11,4 @@ jobs:
       - name: upload artifact
         uses: actions/upload-artifact@v4
         with:
-          path: "m"
+          path: ${{ env.FILE_NAME }}
