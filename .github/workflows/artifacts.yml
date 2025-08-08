@@ -11,4 +11,5 @@ jobs:
       - name: upload artifact
         uses: actions/upload-artifact@v4
         with:
-          path: ${{ env.FILE_NAME }}
+          name: ${{ env.FILE_NAME }}
+          path: .
